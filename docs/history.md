@@ -1,4 +1,5 @@
 ## 4.33.0
+* Add support for Minecraft 1.21.9 (thanks @extremeheat)
 * [Add update workflow (#3727)](https://github.com/PrismarineJS/mineflayer/commit/9c335366d435b58cfe45bbfbbc534b99ee669dc2) (thanks @extremeheat)
 * [Add support for Minecraft 1.21.8 (#3732)](https://github.com/PrismarineJS/mineflayer/commit/ec8220d7c63b72acb4bf16f30cdf4ba346b83f98) (thanks @rom1504)
 
